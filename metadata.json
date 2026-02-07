@@ -1,0 +1,5 @@
+{
+  "name": "Chemical Compatibility Master",
+  "description": "A professional chemical compatibility assessment tool based on CAS numbers, H-statements, and GHS storage classifications.",
+  "requestFramePermissions": []
+}

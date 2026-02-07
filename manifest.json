@@ -1,0 +1,18 @@
+
+{
+  "name": "化学品相容性评估",
+  "short_name": "相容性助手",
+  "description": "基于CAS号和GHS分类的化学品储存相容性评估工具",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3014/3014093.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
